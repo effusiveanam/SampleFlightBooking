@@ -39,7 +39,7 @@ This is a sample automation project for fight searching for three different dest
 3. Designed three test cases for three different destinations.
 4. Added project dependencies to the POM file.
 5. Generated the BaseTest class which basically contains the after and before test and methods for each of the test case run.
-6. Added the browser configurations in before test methods and report generation in after methods using Extent framework.
+6. Added the browser configurations inside the before test methods and report generation in after methods using Extent framework.
 7. Created different folders for logs and capturing screenshots and generating reports.
 8. Created different page elements for all the user actions.
 9. Created different page object page for adding all the locators.
