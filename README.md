@@ -11,7 +11,8 @@ Tech Stack -
 6. TestNg & Extent Framework for Report Generation
 
 
-PreRequisites to SetUp This Project -
+
+<b>PreRequisites to SetUp This Project</b> -
 
 1. Download the JDK file from the Oracle official website - https://www.oracle.com/ae/java/technologies/downloads/
 2. You will have to login into the oracle website and then download the JDK based on your system requirement.
