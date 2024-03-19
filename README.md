@@ -1,6 +1,6 @@
 # SampleFlightBooking
 
-This is a sample automation project for fight searching for three different loactions and validating the search result with search conditions.
+This is a sample automation project for fight searching for three different destinations and then validating the search result with search conditions.
 
 <b>Tech Stack -</b>
 1. Java
@@ -50,7 +50,7 @@ This is a sample automation project for fight searching for three different loac
 It is a this small project build from scratch using Selenium with Java. Most challenging part was to develop the project structure so that it is easy to understand and to also make sure it follows the right coding protocols. 
 
 <b>Pending</b>
-More assertions can be added for validations.
+More assertions can be added for the search validations.
 
 <b>Screenshot</b>
 
