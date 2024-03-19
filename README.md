@@ -2,7 +2,7 @@
 
 This is a sample automation project for fight searching for three different loactions and validating the search result with search conditions.
 
-Tech Stack -
+<b>Tech Stack -</b>
 1. Java
 2. JavaScript
 3. CSS
@@ -12,7 +12,7 @@ Tech Stack -
 
 
 
-<b>PreRequisites to SetUp This Project</b> -
+<b>PreRequisites to SetUp This Project -</b>
 
 1. Download the JDK file from the Oracle official website - https://www.oracle.com/ae/java/technologies/downloads/
 2. You will have to login into the oracle website and then download the JDK based on your system requirement.
@@ -23,7 +23,7 @@ Tech Stack -
 7. Once done, download the eclipse editor and configure it in your system.
 
 
-Steps to Run this project - 
+<b>Steps to Run this project -</b>
 
 1. Open eclipse and install testNg framework from the eclipse marketplace.
 2. Download this project and open the folder in Eclipse editor.
