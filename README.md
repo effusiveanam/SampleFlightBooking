@@ -33,10 +33,25 @@ This is a sample automation project for fight searching for three different loac
 6. The browser will open and start running the testcases.
 
 
+<b>Sharing my approach to build this Project -</b>
+1. I basically tried to go through the requirement for the project.
+2. Defined the scope by eliminating the scenarios that is not mentioned in the requirement.
+3. Designed three test cases for three different destinations.
+4. Added project dependencies to the POM file.
+5. Generated the BaseTest class which basically contains the after and before test and methods for each of the test case run.
+6. Added the browser configurations in before test methods and report generation in after methods using Extent framework.
+7. Created different folders for logs and capturing screenshots and generating reports.
+8. Created different page elements for all the user actions.
+9. Created different page object page for adding all the locators.
+10. Created test classes for calling those methods to make the collective action for one test scenario.
+11. Added the testnG.xml to the folder to mention the test classes to run.
 
+<b>Chanllenges</b>
+It is a this small project build from scratch using Selenium with Java. Most challenging part was to develop the project structure so that it is easy to understand and to also make sure it follows the right coding protocols. 
 
+<b>Pending</b>
+More assertions can be added for validations.
 
-
-
+<b>Screenshot</b>
 
 <img width="1709" alt="Screenshot 2024-03-19 at 4 11 11 PM" src="https://github.com/effusiveanam/SampleFlightBooking/assets/19259939/6efc19f1-b761-4187-8d39-f5b1326435b3">
