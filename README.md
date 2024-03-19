@@ -47,10 +47,10 @@ This is a sample automation project for fight searching for three different dest
 11. Added the testnG.xml to the folder to mention the test classes to run.
 
 <b>Chanllenges -</b>
-It is a this small project build from scratch using Selenium with Java. Most challenging part was to develop the project structure so that it is easy to understand and to also make sure it follows the right coding protocols. 
+It is a this small project build from scratch using Selenium with Java. Most challenging part was to develop the project structure so that it is easy to understand and to also make sure it follows the right coding protocols. I have to everythign from scratch since I am using my personal machine. I really liked to revisit the "build from scratch" phase as it helped me with the revision. It almost took around 13-14 hours for me to create everything that I have provided in the above files. 
 
 <b>Pending -</b>
-More assertions can be added for the search validations.
+More assertions needs to be added for the search validations.
 
 <b>Screenshot</b>
 
